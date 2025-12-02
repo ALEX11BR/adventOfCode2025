@@ -1,4 +1,4 @@
-# Personal attempts at solving Rust 2025 in Rust
+# Personal attempts at solving Advent of Code 2025 in Rust
 
 In every `d{day}` folder there are my solutions to that day's problems (as `p{part}.py`).
 The day's inputs sit in that folder in files named `input` (I don't publish them here).
