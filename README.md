@@ -1,6 +1,6 @@
 # Personal attempts at solving Advent of Code 2025 in Rust
 
-In every `d{day}` folder there are my solutions to that day's problems (as `p{part}.py`).
+In every `d{day}` folder there are my solutions to that day's problems (as `src/p{part}.rs` binaries, can be run with `cargo run --bin p{part}`).
 The day's inputs sit in that folder in files named `input` (I don't publish them here).
 
 The programs get their input from a stdin (that might require an end of stream).
